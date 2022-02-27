@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a person of honour, reconciling the dissenting brethren, (commonly called Independents) and the Presbyterians, in matter of judgement, about the setling of the church. Sent to an eminent divine of the Assembly.</title>
+            <author>Person of honour.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87934</idno>
+            <idno type="STC">Wing L1421</idno>
+            <idno type="STC">Thomason E22_17</idno>
+            <idno type="STC">ESTC R21554</idno>
+            <idno type="EEBO-CITATION">99871449</idno>
+            <idno type="PROQUEST">99871449</idno>
+            <idno type="VID">123860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123860)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E22[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a person of honour, reconciling the dissenting brethren, (commonly called Independents) and the Presbyterians, in matter of judgement, about the setling of the church. Sent to an eminent divine of the Assembly.</title>
+                  <author>Person of honour.</author>
+               </titleStmt>
+               <extent>[2], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M. DC. XLV. [1645; i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Thomason received his copy December 30, 1644.</note>
+                  <note>Thomason annotation: the 5 in the imprint date is crossed out and altered to 1644; "Decemb: 30th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123860:1"/>
+            <pb facs="tcp:123860:1" rendition="simple:additions"/>
+            <p>A LETTER FROM A PERSON OF HONOUR, RECONCILING The Diſſenting Brethren, (commonly called Independents) AND The Presbyterians, in matter of Judgment, about the ſetling of the CHURCH.</p>
+            <p>
+               <hi>Sent to an eminent Divine of the Aſſembly.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by R.A. M. DC. XL V.</p>
+            <pb facs="tcp:123860:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:123860:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>FOr the ſatisfaction of your deſire expreſſed in the Let<g ref="char:EOLhyphen"/>ter, I will firſt lay down ſome grounds, which I con<g ref="char:EOLhyphen"/>ceive to be agreeable to truth, and thereupon give you the Reaſon of my judgment and practice.</p>
+            <p>Firſt, I conceive a viſible Miniſtring Church, under the Goſpell to be a Company of Believers, joining themſelves together in the name of Chriſt, for the enjoyment of ſuch Ordinances, and exerciſe of ſuch ſpirituall goverment, as the Lord hath apointed for his worſhip and honour, and their mutuall edification.</p>
+            <p>This deſcription doth ſufficiently expreſs what is intended.</p>
+            <p>An exact definition, ſuch bodies are not ſo Capable of as ſome other things may be: Neither needs it when what is meant is fully underſtood by both Parties; therefore in ſuch a Caſe to ſtick upon that, doth produce rather a Litigation about words and terms, then any ſatisfaction: If the truth of any thing herein be queſtioned that muſt ſtand or fall accor<g ref="char:EOLhyphen"/>ding to Scripture.</p>
+            <p>I call it a [Viſible Miniſtring] Church to diſtinguiſh it from that Univerſall, which can be neither<hi>:</hi> except we will admit the Pope or ſome Image of him, ſome ſuch humane device, to be it virtually, always to exiſt viſibly, for the per<g ref="char:EOLhyphen"/>formance of ſuch duties as Chriſt hath enjoyned his Chur<g ref="char:EOLhyphen"/>ches to perform upon all Occaſions of Offence, or otherwiſe; And yet that will not ſerve, neither except Courts and Offi<g ref="char:EOLhyphen"/>cers be allowed, even to the Apparitors as hands in all places to ſupply defects in this way.</p>
+            <p>I adde [Under the Goſpell] becauſe the Conſtitution un<g ref="char:EOLhyphen"/>der the Law was Nationall, the Officers, Ordinances and Places of Worſhip, all fitted to ſuch a frame; and typicall; which under the Goſpell was changed as appeareth both by Chriſts inſtitution, <hi>Matth.</hi> 18. and all t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Apoſtles practice throughout in all places, who beſt underſtood our Saviours intention and meaning for the Conſtitution of Churches E<g ref="char:EOLhyphen"/>vangelical being by him inſtructed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd left authoriſed there<g ref="char:EOLhyphen"/>unto.
+<pb n="2" facs="tcp:123860:3"/>
+Secondly, The matter of this Church is a Company of Saints, ſuch whom as the Apoſtle, ſo the Church that ad<g ref="char:EOLhyphen"/>mits then or joyns with them ought to think it meet to judge of every one of them that Chriſt hath begun a good worke in them and will finiſht it. The Apoſtles always ſtile them Saints, and faithfull Brethren, or the Church of ſuch a place which is in God the Father and in the Lord Jeſus Chriſt, Saints by Calling, ſanctified in Chriſt Jeſus, the Church Elected together with them, and ſuch like titles applyable only unto men ſanctified: That they ought to be ſuch in profeſſion will not be denied, that they ought to be what they profeſſe is as evident. The power of the Church and the exerciſe of that power commanded by our Saviour, is for this end that Offences may be taken away, when men ſhall appear to be other then they make profeſſion to be, and that they may be prevented ſo far as man can judge by keep<g ref="char:EOLhyphen"/>ing out falſe brethren, that they creep not in privily: the un<g ref="char:EOLhyphen"/>ruly are to be admoniſhed, and if upon admonition they will not reforme, Chriſt directeth what courſe ſhall be taken with them. And he who is to be caſt out when he is known, ought not to be admitted could hee be knowne to be other then a Saint by the Church before he was received.</p>
+            <p>Thirdly, The Form of ſuch a viſible Church, I conceive to be the Relation, which by their mutuall conſent is raiſed between them for Spirituall Ends, by which it is that they have power of juriſdiction: and may and ought to judge thoſe that are within, 1 <hi>Cor.</hi> 5.12.</p>
+            <p>Which juriſdiction no man can lawfully be ſubjected unto, but by his own agreement. The ſuperioritie of Juriſdiction either in things Spirituall or Temporall (if it be not naturall as the paternall) muſt be voluntarily ſubjected unto or it is u<g ref="char:EOLhyphen"/>ſurped and tyrannical: Therefore to raiſe this Relation which gives a power of judging, there muſt be a voluntary ſubmiſ<g ref="char:EOLhyphen"/>ſion of themſelves one to another teſtified by ſome Act, whe<g ref="char:EOLhyphen"/>ther you will call it a Covenant, or Conſent, or Agreement between fit Members for ſuch ends.</p>
+            <p>
+               <pb n="3" facs="tcp:123860:3"/>
+This Conſent and agreement ought to be explicite or the wel being, but not neceſſarily to the being of a true Church; for it may be implied by ſuch conſtant and frequent Acts of Communion performed by a company of Saints joined together by cohabitation in Townes and Villages, as that the falling in of their ſpirits into this brotherly fellowſhip and communion in things ſpirituall is acted unto the true being of it, but for the want of the cleere and full ex<g ref="char:EOLhyphen"/>preſſion thereof among themſelves, the relation it raiſes, the power it gives them one over anoher, the dutie it obligeth them unto in the exerciſe of that power is obſcurely and little apprehended, and leſſe practiſed.</p>
+            <p>This I conceive to be the preſent ſtate of moſt of the Churches in this Kingdome, which although they be true Churches (I do not mean it of the whole Towns) yet being too ignorant wherein that conſiſteth, and what power and priviledge they have and ought to exerciſe by it; they ſuffer themſelves by uſurpers to be deprived of the exerciſe of this power, and thereby a mixed multitude preſſe in among them to their own hardning, to the Churches levening, con<g ref="char:EOLhyphen"/>tracting guilt through neglect of their dutie to ſeperate the vile from the precious ſuffering ſin to fret like a Gangreen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to the great diſhonour of Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt (who hereby is held forth through the negligence of the Church to be an Head unto ſuch members in the eye of the World. There is be<g ref="char:EOLhyphen"/>ſides through the ſame uſurpation a yoke of bondage caſt upon the Churches by the impoſition of many humane de<g ref="char:EOLhyphen"/>vices, both upon Officers and Members, full of tyranny and Superſtition; the ſuffering whereof will cauſe the Lord to have many things againſt them, but doth not unchurch them, ſince many wants and many corruptions may ſtand with the being of a true Church as all Experience ſheweth.</p>
+            <p>I expect hereupon to be demanded what Reaſons I can give why Seperation ſhould be made from ſuch Churches, which are acknowledged to be true Churches, although
+<pb n="4" facs="tcp:123860:4"/>
+with many wants and corruptions: In anſwering whereof I ſhall give you an account of that I undertook. And firſt, I ſay this word Seperation is no ſuch Bug-beare as many would make the world and themſelves believe, who hand over head without differencing things or perſons, or under<g ref="char:EOLhyphen"/>ſtanding that whereof they affirme; take it up and caſt it a<g ref="char:EOLhyphen"/>broad with as little Charitie as Learning.</p>
+            <p>Seperation whereof we ſpeak is either from the Com<g ref="char:EOLhyphen"/>munion of the Inviſible Church, <hi>Heb.</hi> 12. the Generall Aſſembly and Church of the firſt-borne which are written in Heaven; or from this or that particular viſible Churches Communion.</p>
+            <p>The firſt cannot be made but by denying the faith for the Requiſites unto that Communion are Faith and Love, and this is a Seperation as fearfull and terrible as they would or can make Seperation to be.</p>
+            <p>The ſecond conſiſteth in refuſing to joine in the externall Communion of this or that particular Church, as in their Liturgies, publike Prayers, participation of Sacraments, and this Seperation upon due Cauſe may be made without any more danger or ill Conſequences, then there is in keep<g ref="char:EOLhyphen"/>ing our ſelves free from pertaking with other men in their ſins; and being made, it neither ſeperates thoſe men who made it from the Communion of the Catholike Church, nor from internal Communion with the Saints of that par<g ref="char:EOLhyphen"/>ticular viſible Church, as they are Saints and Members of the Catholike Church, but only from the Corruptions of their Externall Communion, which they hold in that vi<g ref="char:EOLhyphen"/>ſible Church whereof they are.</p>
+            <p>
+               <hi>Luther</hi> made a ſeperation from the eternall communion of all the Churches in the world, and hee with thoſe that adhered to his doctrine in that ſeperation did conſtitute Churches more pure, both in regard of their conſtitution, and exerciſe of externall communion, yet none but Papiſts or ſuch in our times as linger after popery, and would be
+<pb n="5" facs="tcp:123860:4"/>
+glad of a Captain to lead them back again into Egypt, will accuſe him to have made a Schiſme; and brand him with the odious name of a Schiſmatick: For he ſeperated not from believers as believers, but from thoſe corruptions, which were univerſally ſpread over all in the externall communi<g ref="char:EOLhyphen"/>on that then was held in the Chriſtian world. And this hee was bound to doe, and others with him who believed his doctrine; if they would keepe themſelves pure from the guilt of thoſe common corruptions.</p>
+            <p>In the ſecond place I anſwer that there is a neceſſity laid upon many, and it is (as I conceive) the duty of all that have light to ſee it, to ſeperate themſelves from holding exter<g ref="char:EOLhyphen"/>nall communion with many Churches here in England, although acknowledged true Churches, and that for theſe reaſons.</p>
+            <p>Firſt, Becauſe ſuch things are required of them to bee performed if they will hold externall communion, as they cannot practiſe without ſin.</p>
+            <p>Secondly, If they might be free for their own practiſe, yet they cannot perform that duty, which by Chriſts com<g ref="char:EOLhyphen"/>mand lyeth upon them as members of a viſible Church to performe and fulfil, that they may not contract guilt, and be leavened by the ſinfull practiſes of fellow members.</p>
+            <p>For the firſt I wil inſtance in thoſe things which being re<g ref="char:EOLhyphen"/>tained in theſe Churches, and enjoyned upon all, have been ever ſince the reformation of Religion oppoſed and witneſ<g ref="char:EOLhyphen"/>ſed againſt by the greateſt Lights of this later age, both ſtrangers and of our own Nation, yea and caſt out by the pureſt, if not by all other reformed Churches, abjured as Antichriſtian by ſome, only theſe which hang between heaven and earth, and are ſtill moving downwards towards the centre of their old ſuperſtitions, doe not onely retain them, but will ſuffer none to joyne in externall Communi<g ref="char:EOLhyphen"/>on with them, except they will approve and practice what they do. Theſe are the uſurping Hierarchie, and the popiſh
+<pb n="6" facs="tcp:123860:5"/>
+Ceremonies, the devices of men, the Ornaments and dreſſe of the Romiſh Whore, thought decent and fitteſt for to a<g ref="char:EOLhyphen"/>dorn Gods worſhip, not in my judgment at any time <hi>tolera<g ref="char:EOLhyphen"/>bilis ineptiae</hi> (in their uſe here) as one calls the Ceremonies, but at this time much leſſe tolerable as they are maintained &amp; preſſed, the one not by Commiſſion from the Magiſtrate but as a Superiour degree of Miniſtry by divine Inſtitution, not eſteemed to be <hi>jure humano;</hi> the other not as idle, empty Ceremonies, but ſerving to teach and expreſſe the inward affections of the heart: The white Linnen, what can that expreſſe, but Angelicall puritie; The Croſſe hath its ex<g ref="char:EOLhyphen"/>preſſion, and what it teacheth is given unto it, Conſtancie in Confeſſion of the faith, kneeling in the act of Receiving urged as a Geſture of more reverence, and fitter for that Ordinance, then that which our Saviour uſed and thought Congruous to it. Unto theſe I will adde that Compoſition of a Divine publike worſhip by men, which they call the Publike Prayers of the Church, the Service book, contai<g ref="char:EOLhyphen"/>ning the divine Service. <hi>White</hi> in his Epſtle to the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury,</hi> before his book againſt the Sabbath, ſtiles it the univerſall Sacrifice, which amongſt the Jews was the daily Offering, the Morning and Evening Sacrifice. This ſheweth what apprehenſions they have of it, and in what ſenſe they ſtrictly enjoine that no part of it ſhall at any time be omitted, that ſo the Divine Worſhip which the Church hath ſet apart and conſecrated unto God may be fully obſerved and performed; and then the Offering of God, the daily Sacrifice, wherein all have vote and inte<g ref="char:EOLhyphen"/>reſt is offered up: ſee his own words in the place, which is in the end of his Epiſtle.</p>
+            <p>
+               <hi>Now this Conſecrate thing more holy then the ſinglar and af<g ref="char:EOLhyphen"/>fected devotions of private Spirits, becauſe devoted to God by the Church and State for his publike ſervice, what is it but a de<g ref="char:EOLhyphen"/>vice of man? a new Cart taken up from the Papiſts as the</hi> Iſ<g ref="char:EOLhyphen"/>raelites <hi>in imitation of the</hi> Philiſtims <hi>heretofore did to caſe</hi>
+               <pb n="7" facs="tcp:123860:5"/>
+               <hi>the Levits who ought to have carried the Arke upon their own ſhoulders, and not ſuffered to be carried by beasts inſtead of men.</hi>
+            </p>
+            <p>The ſame thing is done here, Chriſt hath given gifts to men, that thoſe gifts may be the foundation of Offices for the Edification of his bodie: He hath given Paſtors and Teachers, and therefore the Gift of Teaching the Word of Wiſdom, and the Word of Know<g ref="char:EOLhyphen"/>ledge by the exerciſe of theſe gifts (in the ſeverall adminiſtrations, whereto they ſerve) he will be honoured, and by an effectuall opera<g ref="char:EOLhyphen"/>tion edific his bodie: Thoſe who are fitted for ſuch Offices, and called to them, muſt therefore to theſe ends give themſelves to prayer &amp; to the Miniſterie of the Word: In place hereof is brought in and enjoined to be uſed, this new Cart which a boy of 12 yeeres old may drive, even the meaneſt of the people if he will draw neer and fill his hand with this Service book, may be a Scribe inſtructed ſufficiently; and furniſhed to bring forth what is here required; ſo that inſtead of Chriſts way for his owne honour and his Churches edification, here is mans way brought in inſtead of the Gifts which he giveth and furniſheth men with all to be exerciſed in the Mini<g ref="char:EOLhyphen"/>ſterie: here is a compoſure and frame of Divine Service pieced up together into a body by ſome men, which muſt ſerve inſteed of Gifts to all Men, and for all Times, and be enjoyned to be uſed without variation, as comming from the publike ſpirit of the Church, and thereby devoted. Hereby they doe not only ſet their Poſts by Gods Poſts, but they lay aſide his, and enjoine theirs only to be uſed as fitter for the building.</p>
+            <p>If it be ſaid Men are not prohibited to exerciſe the gift of prayer, nor preaching in their publike Miniſterie. I anſwer they are ex<g ref="char:EOLhyphen"/>preſly enjoined to uſe no Praiers but theſe conſecrated Praiers of the Church in their publike Miniſterie, and this is <hi>de jure,</hi> what e<g ref="char:EOLhyphen"/>ver in ſome places is done <hi>de facto.</hi> And again, if wee yield, that they have authoritie to conſecrate and enjoin one form, which muſt not in a tittle be receded from, for ſanctifying of ſome Ordinances, as in the adminiſtration of the Sacraments; they may with as good authoritie enjoine a ſet form for other Ordinances, as the preaching of the Word, and they have done ſo.</p>
+            <p>
+               <pb n="8" facs="tcp:123860:6"/>
+For preaching I never yet ſaw ſubſtantiall reaſon given; that might ſhew a difference between theſe two, the taking authority to make a book of common publique Prayer to read which all ſhall be tyed to in the exerciſe of the function of paſtor and teacher, inſtead of praying and the taking authority to make a book of common publique Sermons, and enjoyning all Paſtors &amp; Teachers, to read thoſe inſtead of preaching. But if it be unlawfull to introduce and enjoyn a publike Homily book in place of the gift of teaching, it wil be no leſſe unlawfull to bring in a book of common and pub<g ref="char:EOLhyphen"/>ique Prayers, and enjoyn the ſame upon all Paſtors and Teachers in place of the gift of prayer. Therefore as they have done the one they may with as good reaſon and authority doe the other: For if the reading of Homilies, commanded in place of preaching, and all other preaching prohibited doe appear unto us unlawfull, and in that caſe we ſhould apprehend Gods Ordinance thruſt out, and mans device brought in in place of it, I would ſee a reaſon given why we ſhould not have the ſame apprehenſion of the other alſo, but that uſe and cuſtome hath reconciled us to the one and not to the other.</p>
+            <p>Here to fall into a diſpute of ſet forms of Prayers in generall, and indeavour, (as Maſter <hi>Ball</hi> and others doe) to prove that ſome ſet formes of Prayer, may in ſome caſes by ſome perſons be uſed, or to aske whether all directary Liturgies appointed in ſome other Churches, by way of direction only not of injunction (the Officers being left at liberty, and the Churches to make uſe of them, or not, as they ſee occaſion, and as their own gifts may bee excited and hel<g ref="char:EOLhyphen"/>ped thereby) be altogether unlawfull, is altogether beſides the que<g ref="char:EOLhyphen"/>ſtion, and rather changeth the ſtate of the Queſtion then anſwereth the Objection that is made againſt this (to uſe King <hi>James</hi> his words) ill tranſlated Masbook, wherein ſome groſſe things only are pared off, and that as being injoyned upon all Churches, and thus preſſed for ſuch reaſons, and with ſuch reſpects and circumſtances, for if this may not be uſed; the parties whom they ſeek to ſatisfie, receive no ſatisfaction by all that can be ſpoken of the other to in<g ref="char:EOLhyphen"/>duce them to uſe this.</p>
+            <p>
+               <pb n="9" facs="tcp:123860:6"/>
+In the ſecond place, if men for their own practiſe, could bee free and diſpenſed withall for theſe particulars, yet there lyeth a duty upon every member of a viſible Church, which hee is obliged to performe, or elſe he wil partake of the guilt of other mens ſins, and this duty he ſhall not be ſuffered to performe.</p>
+            <p>This obligation lying upon every member in communion with a viſible Church ariſeth from the power of the keys, wherewith eve<g ref="char:EOLhyphen"/>ry viſible Church, &amp; every member thereof for his part is in truſted by Chriſt, and for the exerciſe of Church truſt, as the whole body, ſo every particular member ſhall be accountable according to the neglect of duty therein,</p>
+            <p>For this end the Lord by the Apoſtles hath caſt Evangelicall Churches into ſuch bodies, as might conveniently meet together in one place, upon all occaſions to exerciſe this power, as the Apoſtie directeth the Church of Corinth to doe, and blames them that they had not done their duty therein before, whereby it came to paſſe that they were all leavened and became guilty, 1 <hi>Cor.</hi> 5.</p>
+            <p>This was the conſtitution of all Churches that were Apoſtoli<g ref="char:EOLhyphen"/>call; <hi>Gal,</hi> 1. 22. 2 <hi>Cor.</hi> 8. 1. <hi>Gal.</hi> 1. 2. The Churches of Judea, Churches of Macedonia, Churches of Galatia, and ſuch Churches, 1 <hi>Cor.</hi> 14. 23. <hi>as might come together in one place, When the whole Church ſhall be come together in ſome place.</hi> 1 <hi>Cor.</hi> 5. 4.</p>
+            <p>Other frames of Univerſall, Nationall, Provinciall, and ſuch like viſible Churches are mens Devices and Conſtitutions; ſerving for and tending to an Univerſall Vicar, being either the ſame or the I<g ref="char:EOLhyphen"/>mage thereof, ſtanding upon the ſame grounds and reaſons of hu<g ref="char:EOLhyphen"/>mane policie, and cannot be always exiſtent for the remedie of Of<g ref="char:EOLhyphen"/>fences &amp; Scandals to be brought to them as Chriſt commandeth, but in a way of Antichriſtian uſurpation by Courts, Chancellours, Commiſſaries, Officials, and ſuch like Officers of the Kingdome of Antichriſt, in imitation of earthly Kingdoms, whereof there is no footſtep in Apoſtolicall direction or practice, but the cleane con<g ref="char:EOLhyphen"/>trarie, as appeareth in the places forecited: But after their times the myſterie of iniquity ſoon brought forth, firſt, the foundations of this Tyrannie, and then by degrees the intire building. This power
+<pb n="10" facs="tcp:123860:7"/>
+therefore being placed in the whole Church Officers &amp; Members, and to be exerciſed when theſe are gathered together, and this Church ſuch as may for that end come together in one place, as is evident out of 1 <hi>Cor.</hi> 5.4. When this dutie is neglected, and ſuch power not exerciſed upon due Occaſions, according to the Com<g ref="char:EOLhyphen"/>mandement of our Saviour, the whole Church is guiltie and every Member, except that be done by particulars, which may keep them free from partaking in the guilt of ſuch common neglect. I think it will not be denied but that the whole Church of <hi>Corinth</hi> was guil<g ref="char:EOLhyphen"/>tie, and every particular Member involved in the common guilt of their negligence.</p>
+            <p>The dutie that lieth upon everie Church by Chriſts command, <hi>Math.</hi> 18. <hi>Is to caſt out obſtinate ſinners who will not by the uſe of all due proceedings be brought to Repentance: This if they doe not, but will endure thoſe, who are evill, and impenitent in their evils, the Church bringeth a great guilt upon themſelves,</hi> 2 <hi>Cor.</hi> 5.8. and that is the condition of moſt, if not of all the Churches in this Land.</p>
+            <p>The ways for particular Members to keepe themſelves from be<g ref="char:EOLhyphen"/>ing leavened and involved in the guilt of ſuch common ſins, are but two, Either firſt, the doing of that for their part, which is their dutie in ſuch a communion; or ſecondly, if that will not be ſuffered, or will not prevaile to diſclaim the holding of ſuch com<g ref="char:EOLhyphen"/>munion, and join in a more pure.</p>
+            <p>The neceſſitie therefore that lieth upon particulars, who live in communion with ſuch Churches, is, either to performe that which in ſuch a caſe is their own dutie as Members of ſuch Churches and intereſted for their parts in this power, which ſhould be exerciſed according to the Commandement of the Lord to ſeperate the vile, but by the Church is neglected; or elſe for their neglect alſo toge<g ref="char:EOLhyphen"/>ther with the reſt, to be involved in the guilt of this common diſ<g ref="char:EOLhyphen"/>obedience.</p>
+            <p>That which is their own dutie in ſuch a caſe being equally intru<g ref="char:EOLhyphen"/>ſted, is, to exhort the reſt to obedience, to be humbled and mourne for their Offences and Scandals given by parties offending, and ob<g ref="char:EOLhyphen"/>ſtinate,
+<pb n="11" facs="tcp:123860:7"/>
+and for the Churches neglect to apply that Remedie that Chriſt hath enjoined: to profeſſe to the Church their owne readi<g ref="char:EOLhyphen"/>neſſe to performe obedience to Chriſts command, if the reſt of the Church will join with them; to proteſt againſt their diſobedience if they refuſe, either through negligent ſecuritie, being puffed up with pride as the Church of Corinth, or through the baſe feare of man.</p>
+            <p>I thinke it will be granted that if any particular Member in the Church of <hi>Corinth,</hi> had done this in caſe of the Inceſtuous perſon, he had bin free, and no way involved in the guilt of that Church, which the Apoſtle chargeth them all with: For which the Apoſtle expreſſeth to have bin the dutie of all, if any particular for his part had performed the ſame as far as lay in him, &amp; made publike confeſ<g ref="char:EOLhyphen"/>ſion of that truth, to the edification of the reſt, profeſſing againſt their diſobedience, hee had not bin leavened for the leavening and corruptions in this caſe is not phyſicall, as one man receiveth the in<g ref="char:EOLhyphen"/>fection of the Plague from another, but onely morall; by reaſon of neglect of dutie; and the corrupting by ill example, working upon the ſame ill Principles of our evill Nature is (through the juſt judg<g ref="char:EOLhyphen"/>ment of God) a conſequence of ſuch neglect of dutie, which were it performed either in generall or in particular, as it is appointed for a remedy, ſo would it be a preſervation: And I thinke ſuch a parti<g ref="char:EOLhyphen"/>cular Member or Members in ſuch caſe might (as altogether un<g ref="char:EOLhyphen"/>leavened) keep the Feaſt in ſinceritie and truth, and with comfort and profit partake of the Ordinances, notwithſtanding the ſin and obſtinacie of other Men, and the ſin of that Church (in neglecting to caſt them out) with which they are in Communion; yet with theſe Cautions.</p>
+            <p>Firſt, that they be not otherwiſe preſſed with Superſtitions in the uſe of the Ordinances for their own practice:</p>
+            <p>Secondly, that if they cannot prevaile with the Church (by their dutie ſo performed) to exerciſe that power that Chriſt hath given them for edification, and to keep his Temple undefiled, that the Members of Harlots may not ſtill be held forth in profeſſion to be the Members of Chriſt, one bodie with the reſt, as partaking
+<pb n="12" facs="tcp:123860:8"/>
+of one bread, then that they leave ſuch externall Communion which they hold with them, if they can joyn in communion with a purer Church, where they may bring more honour to the Lord Chriſt, and more comfort and edification to themſelves and others with whom they doe walke in communion.</p>
+            <p>This I was willing to expreſſe by the way becauſe it is uſuall for men to fall into long diſputes, and bring many arguments to prove that the Ordinances are not made leſſe comfortable, or the parta<g ref="char:EOLhyphen"/>king in them made ſinfull to one man, becauſe of the ſins of other men who partake with them: They ſet up a man of ſtraw to con<g ref="char:EOLhyphen"/>tend with all, and fight againſt what themſelves have framed. It is not the ſins of other men, as they are their perſonall acts that can caſt guilt upon any but themſelves, but it is the ſuffering of theſe ſins and ſinners to paſſe without ſuch cenſure as the Lord hath ap<g ref="char:EOLhyphen"/>pointed to be pronounced againſt them, by thoſe whom hee hath in<g ref="char:EOLhyphen"/>veſted with power to that end, which makes theſe ſins the ſins of the whole body, that ſo neglect their duty enjoyned them. and here<g ref="char:EOLhyphen"/>by <hi>a little leaven leaveneth the whole lumpe.</hi> So that they either de<g ref="char:EOLhyphen"/>ceive or are deceived that agitate with ſo much eagerneſſe, this (as they ſay) ſtrange opinion that another mans ſins ſhould hinder any from partaking comfoitably in the Ordinances. It is not another mans ſin that hindereth but their own (as they that will ſee may perceive, conſiſting in the neglect of what (upon his ſinning) is there duty to doe, and not in any act by him committed.</p>
+            <p>Now particular members are not ſuffered to diſcharge them<g ref="char:EOLhyphen"/>ſelves by doing that duty which in ſuch a caſe of the Churches <note place="margin">This <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſcours <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as writ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n ſome <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ars ſince <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere peri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us.</note> neglect doth ly upon them to performe, or if they will performe it to their own acquitting, and the Churches edifying whereof they are members, they are no leſſe certain to run upon ruine in * theſe times, then to qrevail nothing at all with Churches ſo conſtituted, and conſiſting of ſuch mixed multitudes as the moſt are.</p>
+            <p>Not to make ſuch publique profeſſion as they thinke their duty obligeth them unto, is to live in ſin againſt conſcience and that is, againſt Chriſtianity, to doe it to no profit and with certain ruine, when another way may be taken to prevent the ſin and avoid the
+<pb n="13" facs="tcp:123860:8"/>
+danger is againſt Chriſtian wiſdome; therefore there is a ne<g ref="char:EOLhyphen"/>ceſſity that doth ly upon many to disjoyne themſelves from being members of divers Churches in this Kingdome, that the obligation which by reaſon of ſuch a relation wil ly upon their conſcience may not preſſe them when they cannot diſ<g ref="char:EOLhyphen"/>charge the ſame, and to unite themſelves in memberſhip and communion, where they may in doing and ſubmitting them<g ref="char:EOLhyphen"/>ſelves mutually unto all that Chriſt enjoyneth them, for his honour and their ediſication exerciſe a Communion in the uſe of all the Ordinances, free from the mixture of humane inventions, and antichriſtian uſurpations.</p>
+            <p>Suppoſe a congregation in this Land, ſome Towne or Pa<g ref="char:EOLhyphen"/>riſh (to ſpeak common road language) wherein a company of godly men (Saints all) ſo far as man can judge had united themſelves together by mutuall conſent to walke in all the Ordinances and wayes of the Lord, without admitting the Linſy-woolſie mixture of any humane invention, and with reſolution not to be the ſervants of men, but to caſt off their yoakes in things ſpirituall, and exalt the Lord alone, to rule and judge in them and by them according to the guidance of his word, if finding this ſociety, and their courſe fully to an<g ref="char:EOLhyphen"/>ſwer the perſwaſion of my heart concerning the way af God: I ſhould change my habitation, and take a houſe in that Town that I might thereby joine my ſelfe to this company in Church fellowſhip, becauſe this is your darke and ignorant way of falling into fellowſhip here in this Land, there would be no complayning no out cry of ſeperation, no whiſpering and muttering of forſaking the mother Church, no writing up and down to intimate the great fear there was of ſeducti<g ref="char:EOLhyphen"/>on and ſeperation; and the ſcandall that would ariſe from thence, and yet I ſhould come out thereby, from holding ex<g ref="char:EOLhyphen"/>ternall Communion with one Congregation whoſe external communion I ſaw ſo many corruptions ſo weaved into that I could not hold it and be free from them, and joine my ſelfe
+<pb n="14" facs="tcp:123860:9"/>
+in communion with another, who exerciſed a Communion between themſelves free from ſuch corruptions and bondage; And ſhould I or others do anie more but the ſame thing if in one ſtreet of a Towne we ſhould joine our ſelves toge<g ref="char:EOLhyphen"/>ther in Communion for ſpiritual ends, and ſeperate our ſelves from the externall communion which is held in another, burthened with many ſuperſtitions, and ſubmitting them<g ref="char:EOLhyphen"/>ſelves to beare the yoake of bondage impoſed by men, who Lord it over them in things ſpirituall, and all this without breaking off from internal Communion. Will any Saint a<g ref="char:EOLhyphen"/>mongſt them, conſiſting in the imbracing and holding the doctrine of the ſame true faith and obedience, but ſeperating alone from their corruptions and continuance in diſobedi<g ref="char:EOLhyphen"/>ence. Whereunto then ſerveth the raiſing of ſo much noiſe, and clamour, of ſeperation, but to give up friends into the hands of enemies.</p>
+            <p>I have in my plain way endeavoured to expreſs my judge<g ref="char:EOLhyphen"/>ment in theſe particulars, deſiring to be always ready to open mine eyes, to receive further light from whomſoever it ſhall be ſhewed unto me<g ref="char:punc">▪</g> in the mean time I muſt walke according to that I have accepting no mans perſon, nor giving flattering titles to man, as is ſaid in <hi>Job.</hi>
+            </p>
+            <p>I pretend not to ſo much Scholerſhip, that you ſhould re<g ref="char:EOLhyphen"/>quire of me exactneſſe in Method or Expreſſion: therefore I pray you ſtick not upon ſome Expreſſions which you may conceive not ſo meet to winnow and fanne them by Schola<g ref="char:EOLhyphen"/>ſtick wit. Neither quarrell me for a looſe diſcourſe: I reſt ſa<g ref="char:EOLhyphen"/>tisfied with expreſſing my ſelf to be underſtood; But if there be any beg'd Principles or Grounds wanting proof, or any thing inferd from Grounds too weak to maintain the ſame, ſtay upon theſe and make that appear unto me, and I ſhall ei<g ref="char:EOLhyphen"/>ther make them good, and able to ſtand upon ſolid foundati<g ref="char:EOLhyphen"/>on (at leaſt to my apprehenſion) or quit them: Any other way of anſwer but this only will be received by mee as the
+<pb n="15" facs="tcp:123860:9"/>
+fruit of an acute wit, much exerciſed in Controverſall wri<g ref="char:EOLhyphen"/>ting, and work no other effect.</p>
+            <p>I expect upon your anſwer to be put to make good theſe two.</p>
+            <p>Firſt, The Conſtitution of a viſible Church under the Goſpell.</p>
+            <p>Secondly, the power thereof wherein will conſiſt <hi>Card<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Quaeſtionis,</hi> all turning about upon the determination of theſe.</p>
+            <p>I ſhall make appear what I have ſaid, I hope not to be the fancie of M. <hi>Jacob</hi> (as you pleaſe to ſay) a learned man deſer<g ref="char:EOLhyphen"/>ving not to be ſlighted) nor of any man, but the truth of God having ground in his Word, and embraced for ſuch not by Shrubs in Learning, as ſome may be thought to be, but by the ſtrongeſt and talleſt Cedars of Lebanon for Learning and Pietie.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Errata. Page 4. line 30, for eternall read externall.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
